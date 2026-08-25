@@ -1,0 +1,5 @@
+item,label,n,median,iqr,agree_or_strongly_agree_n,agree_or_strongly_agree_percent,agree_ci95_low_percent,agree_ci95_high_percent,mean_descriptive_only,sd_descriptive_only
+open_banking_knowledge,Open Banking/API knowledge,293,3.0,2.0,132,45.051194539249146,39.454853585359466,50.77562159313731,3.255972696245734,1.2898471394268274
+permission_management,Permission-management confidence,293,3.0,2.0,134,45.73378839590443,40.121520994009806,51.45647484952188,3.273037542662116,1.2716037180305058
+qr_statement_willingness,QR/bank-statement willingness,293,3.0,2.0,118,40.27303754266212,34.81821463282145,45.979615890430814,3.1911262798634814,1.2125159627923157
+ecommerce_willingness,E-commerce/e-wallet statement willingness,293,3.0,1.0,125,42.66211604095563,37.12991094471998,48.38424190615454,3.2389078498293515,1.157578439769414

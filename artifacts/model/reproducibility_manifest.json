@@ -1,0 +1,107 @@
+{
+  "created_utc": "2026-08-22T11:16:17.375975+00:00",
+  "python_version": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 11:23:37) [Clang 14.0.6 ]",
+  "platform": "macOS-14.4-arm64-arm-64bit-Mach-O",
+  "pandas_version": "2.2.3",
+  "numpy_version": "2.1.3",
+  "scikit_learn_version": "1.6.1",
+  "xgboost_version": "3.4.0",
+  "application_rows": 307511,
+  "rows_after_auxiliary_joins": 307511,
+  "predictor_count": 124,
+  "train_rows": 246008,
+  "test_rows": 61503,
+  "test_fraction": 0.2,
+  "train_default_count": 19860,
+  "train_non_default_count": 226148,
+  "scale_pos_weight": 11.38710976837865,
+  "random_state": 42,
+  "cv_folds": 5,
+  "search_profile": "standard",
+  "grid_candidates": 16,
+  "best_parameters": {
+    "model__colsample_bytree": 0.8,
+    "model__learning_rate": 0.07,
+    "model__max_depth": 5,
+    "model__min_child_weight": 5,
+    "model__n_estimators": 400,
+    "model__reg_lambda": 5.0,
+    "model__subsample": 0.8
+  },
+  "best_cv_average_precision": 0.24515540430395522,
+  "best_cv_roc_auc": 0.7617337346925812,
+  "auxiliary_files_used": [],
+  "data_dictionary": {
+    "file_name": "HomeCredit_columns_description.csv",
+    "encoding": "cp1252",
+    "dictionary_rows": 219,
+    "application_columns": 122,
+    "documented_application_columns": 122,
+    "undocumented_application_columns": [],
+    "ext_source_definitions": {
+      "EXT_SOURCE_1": "Normalized score from external data source",
+      "EXT_SOURCE_2": "Normalized score from external data source",
+      "EXT_SOURCE_3": "Normalized score from external data source"
+    }
+  },
+  "input_files": [
+    {
+      "file_name": "application_train.csv",
+      "absolute_path": "/Users/linhphan/Desktop/Dissertation/home-credit-default-risk/application_train.csv",
+      "size_bytes": 166133370,
+      "modified_time_epoch": 1576033140.0,
+      "sha256": "52e96b895b1112e1c853f670e58372719c8441c5ed1c57ac2f7fad559d784f5f"
+    },
+    {
+      "file_name": "HomeCredit_columns_description.csv",
+      "absolute_path": "/Users/linhphan/Desktop/Dissertation/home-credit-default-risk/HomeCredit_columns_description.csv",
+      "size_bytes": 37383,
+      "modified_time_epoch": 1576033086.0,
+      "sha256": "eef7665398228a80f7367c9258220c5fbe1038f3f54094244f354d54e2d4fb03"
+    }
+  ],
+  "analysis_script": {
+    "file_name": "Jupyter Notebook",
+    "absolute_path": null,
+    "size_bytes": null,
+    "modified_time_epoch": null,
+    "sha256": null
+  },
+  "run_arguments": {
+    "data_dir": ".",
+    "application_file": "application_train.csv",
+    "description_file": "HomeCredit_columns_description.csv",
+    "output_dir": "credit_model_outputs_final",
+    "use_auxiliary": "no",
+    "search_profile": "standard",
+    "test_size": 0.2,
+    "cv_folds": 5,
+    "bootstrap_reps": 1000,
+    "false_negative_cost": 5.0,
+    "false_positive_cost": 1.0,
+    "poc_base_cases": 300,
+    "shap_sample": 1000,
+    "random_state": 42,
+    "n_jobs": 2,
+    "xgb_threads": 4,
+    "verbose": 1,
+    "legacy_poc": null,
+    "include_sensitive_features": false,
+    "skip_shap": false,
+    "skip_file_hash": false,
+    "validate_only": false,
+    "self_test": false
+  },
+  "sensitive_features_in_model": false,
+  "winsorisation": "1st/99th percentiles learned inside training/CV folds",
+  "calibration": {
+    "method": "Platt logistic recalibration",
+    "fit_data": "Five-fold out-of-fold training predictions",
+    "models_calibrated": [
+      "Class-weighted logistic regression",
+      "Class-weighted XGBoost"
+    ],
+    "test_outcomes_used_for_calibration": false
+  },
+  "poc_base_cases_per_scenario": 300
+}
