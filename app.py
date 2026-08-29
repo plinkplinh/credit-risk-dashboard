@@ -444,7 +444,7 @@ with case_tab:
             "above_illustrative_cost_threshold": "Above own threshold",
         }
     )
-
+    case_model_scores["Above own threshold"] = case_model_scores["Above own threshold"].map({True: "Yes", False: "No"})
     case_columns = st.columns(2)
     case_columns[0].metric(
         "Case ID",
