@@ -322,13 +322,6 @@ with overview_tab:
         caption=selected_diagnostic,
         use_container_width=True,
     )
-
-    st.caption(
-        "Figure M0 is intentionally not displayed until its locked-test "
-        "evaluation arrows have been corrected."
-    )
-
-
 with scenarios_tab:
     st.header("Three-model proof-of-concept stress scenarios")
     st.write(
