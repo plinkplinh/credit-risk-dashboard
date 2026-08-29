@@ -1,0 +1,4 @@
+model,platt_slope,platt_intercept,fit_data,test_outcomes_used
+Logistic regression,0.9666345359754912,-2.423152041673014,five-fold OOF training predictions,False
+Explainable Boosting Machine,0.967647192280229,-2.4042162279813795,five-fold OOF training predictions,False
+XGBoost,0.9526992573178499,-2.282467200606643,five-fold OOF training predictions,False

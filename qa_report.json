@@ -1,28 +1,39 @@
 {
   "status": "PASS",
-  "generated_at": "2026-08-15T20:19:03+01:00",
-  "required_research_artifacts_verified": 18,
-  "app_syntax": "PASS",
-  "five_dashboard_tabs": "PASS",
-  "absolute_local_path_check": "PASS",
-  "model_predictor_count": 124,
-  "poc_observations": 900,
-  "scenario_cohorts": 3,
+  "generated_at": "2026-08-29T14:30:20+01:00",
+  "python_version": "3.13.5",
+  "three_model_bundles": "PASS",
+  "streamlit_app_test": "PASS",
+  "model_artifacts_verified": 45,
+  "required_survey_artifacts_verified": 9,
+  "models": 3,
+  "poc_model_rows": 2700,
+  "scenario_model_summaries": 9,
   "representative_cases": 3,
-  "png_files_verified": 12,
+  "split_sensitivity_repetitions": 30,
+  "png_files_verified": 18,
+  "five_dashboard_tabs": [
+    "Overview",
+    "Scenario comparison",
+    "Representative case",
+    "Survey evidence",
+    "Methods and limitations"
+  ],
   "dependencies": {
     "streamlit": "1.45.1",
     "pandas": "2.2.3",
     "numpy": "2.1.3",
     "scikit-learn": "1.6.1",
     "xgboost": "3.4.0",
+    "interpret-core": "0.7.8",
     "joblib": "1.4.2"
   },
   "sha256": {
-    "app.py": "a981a6c55fe69cf48cfe9af9f4b6493582764bee4e6690b831a532c6d39f4f90",
-    "requirements.txt": "006168760dd818151f5c5600ddde859ef5c343e114d4cd74330abf80de66838b",
-    "README.md": "4b181a42fa3676231f9de0fa17347b9a2f56003abbae78dcd5160f3231b31c61",
-    "artifacts/model/home_credit_benchmark_model.joblib": "844b829114d7bf4c1891278c06c3b1fa406c2f0e002f33af541ab0b1ff152069",
-    "artifacts/model/reproducibility_manifest.json": "677ef93dfa3ed030b3fdf759285f05bac83f27a18d377971b67ea00742e80c6f"
+    "app.py": "f8cde3ef55d369c6c737aee2b89e66d1e9839a08e7e05d134e702cdf28a53f8e",
+    "app_smoke_test.py": "7eef90540a23bf9c2671be6a979e5b1b7c65fe911ab63a6686d54c64b9bdb9d8",
+    "requirements.txt": "2802387527da0a68108ab71d714e663617493476731849df587b717ad0507439",
+    "README.md": "9ce33f446917fa3cb9e7aa0574fcf39f63b86f9a155baeefe2f458e3f58cf74a",
+    "artifacts/model/reproducibility_manifest.json": "01d040026bde0ee7eb379c7d392f7a13da1dfd7b7d2461e052e0518f7bd06922",
+    "artifacts/model/model_comparison_summary.csv": "6ca2f5a3a5e22cfdb6734fd8d6035b832fc63650c0badbd55c8ce77b00172c69"
   }
 }

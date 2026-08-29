@@ -1,0 +1,13 @@
+comparison,first_model,second_model,metric,estimate_difference,ci95_low,ci95_high,higher_difference_favours_first,bootstrap_repetitions
+XGBoost minus Logistic regression,XGBoost,Logistic regression,roc_auc,0.019611533449132246,0.016310541454406753,0.02300861794170854,True,1000
+XGBoost minus Logistic regression,XGBoost,Logistic regression,pr_auc_average_precision,0.02741716407345479,0.021071285429696884,0.03391614594107899,True,1000
+XGBoost minus Logistic regression,XGBoost,Logistic regression,brier_score,-0.0012885153260212001,-0.0015114138344613816,-0.0010669778590752545,False,1000
+XGBoost minus Logistic regression,XGBoost,Logistic regression,log_loss,-0.0059272686647716954,-0.006809289692685941,-0.005054739745499049,False,1000
+Explainable Boosting Machine minus Logistic regression,Explainable Boosting Machine,Logistic regression,roc_auc,0.019567187155395516,0.016671981738382486,0.02242541497368982,True,1000
+Explainable Boosting Machine minus Logistic regression,Explainable Boosting Machine,Logistic regression,pr_auc_average_precision,0.023715243091628757,0.019003888529372733,0.02866865630625014,True,1000
+Explainable Boosting Machine minus Logistic regression,Explainable Boosting Machine,Logistic regression,brier_score,-0.0011710380122505748,-0.0013633396684261702,-0.0009819361914361637,False,1000
+Explainable Boosting Machine minus Logistic regression,Explainable Boosting Machine,Logistic regression,log_loss,-0.005592415575437354,-0.006344090705263691,-0.0048493374073050755,False,1000
+XGBoost minus Explainable Boosting Machine,XGBoost,Explainable Boosting Machine,roc_auc,4.434629373673005e-05,-0.0021790772967816147,0.0022269826758230526,True,1000
+XGBoost minus Explainable Boosting Machine,XGBoost,Explainable Boosting Machine,pr_auc_average_precision,0.0037019209818260346,-0.0007346578037318987,0.008069943795084886,True,1000
+XGBoost minus Explainable Boosting Machine,XGBoost,Explainable Boosting Machine,brier_score,-0.00011747731377062531,-0.00027889066251656283,4.696902089393257e-05,False,1000
+XGBoost minus Explainable Boosting Machine,XGBoost,Explainable Boosting Machine,log_loss,-0.00033485308933434155,-0.000937720671579479,0.0003050402558181052,False,1000

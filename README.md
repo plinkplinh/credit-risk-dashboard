@@ -1,68 +1,40 @@
 # Alternative-Data Credit Risk Assessment
 
-Interactive dissertation proof of concept developed with
-Streamlit.
+Streamlit proof of concept for an MSc dissertation. The application
+presents two analytically separate evidence strands:
 
-## Research structure
+1. A locked Home Credit technical benchmark comparing class-balanced
+   logistic regression, a main-effects-only Explainable Boosting Machine
+   and XGBoost.
+2. An exploratory consumer survey about data-sharing incentives, privacy
+   boundaries and institutional trust.
 
-The application presents two analytically separate strands:
-
-1. A technical credit-risk benchmark based on the public
-   Home Credit dataset.
-2. An exploratory consumer survey concerning data-sharing
-   incentives, privacy boundaries and institutional trust.
-
-Survey responses are not used as predictors and survey records
-are never joined to model records.
+Survey records are never used as model predictors or joined to model data.
 
 ## Run locally
 
-For the closest compatibility with the saved model artifact,
-use Python 3.13.5.
+Use Python 3.13 for the closest compatibility with the saved artifacts.
 
 ```bash
-python -m venv .venv
+python3.13 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
+python app_smoke_test.py
 python -m streamlit run app.py
 ```
 
-Then open:
+## Analytical design
 
-```text
-http://localhost:8501
-```
-
-## Application sections
-
-- Overview
-- Scenario comparison
-- Representative case and local SHAP explanation
-- Aggregate survey evidence
-- Methods, safeguards and limitations
+- Three class-balanced model comparators.
+- Separate five-fold OOF Platt calibration for every model.
+- Threshold selection from calibrated OOF training predictions.
+- Expected cost per applicant at FN:FP ratios 1:1, 2:1, 5:1, 10:1 and 20:1.
+- Thirty repeated stratified outer splits reported as split sensitivity,
+  not temporal validation.
+- EBM intrinsic global/local explanations and XGBoost post-hoc TreeSHAP.
 
 ## Evidence boundary
 
-This application is a research demonstration only. The scores
-are internally calibrated Home Credit benchmark outputs. They
-are not validated Vietnamese probabilities of default, live
-credit decisions or operational lending recommendations.
-
-The scenario cases are controlled perturbations rather than
-real applicants. SHAP values explain fitted model behaviour;
-they do not establish causality, fairness, legal compliance or
-formal adverse-action reason codes.
-
-## Reproducibility
-
-Model configuration is recorded in:
-
-```text
-artifacts/model/reproducibility_manifest.json
-```
-
-Final package validation is recorded in:
-
-```text
-qa_report.json
-```
+This is a presentation-only research demonstration. It is not a validated
+Vietnamese probability-of-default system, live underwriting service,
+automated approval tool or operational lending recommendation.

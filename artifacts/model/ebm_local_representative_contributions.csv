@@ -1,0 +1,373 @@
+representative_case,scenario,term_index,term,value,raw_log_odds_contribution
+1,A: higher external scores / lower credit-income ratio,0,NAME_CONTRACT_TYPE,Revolving loans,-0.3184961102376725
+1,A: higher external scores / lower credit-income ratio,1,FLAG_OWN_CAR,N,0.046570265283294554
+1,A: higher external scores / lower credit-income ratio,2,FLAG_OWN_REALTY,Y,0.008280031853220172
+1,A: higher external scores / lower credit-income ratio,3,CNT_CHILDREN,0.0,-0.006546827658147925
+1,A: higher external scores / lower credit-income ratio,4,AMT_INCOME_TOTAL,90000.0,-0.032065701410666086
+1,A: higher external scores / lower credit-income ratio,5,AMT_CREDIT,163636.36363636362,-0.06849158689633973
+1,A: higher external scores / lower credit-income ratio,6,AMT_ANNUITY,12375.0,-0.17743518585914617
+1,A: higher external scores / lower credit-income ratio,7,AMT_GOODS_PRICE,247500.0,0.040660516642697306
+1,A: higher external scores / lower credit-income ratio,8,NAME_TYPE_SUITE,Unaccompanied,0.006413678873271158
+1,A: higher external scores / lower credit-income ratio,9,NAME_INCOME_TYPE,Working,0.027939157225705915
+1,A: higher external scores / lower credit-income ratio,10,NAME_EDUCATION_TYPE,Secondary / secondary special,0.0590539045750257
+1,A: higher external scores / lower credit-income ratio,11,NAME_FAMILY_STATUS,Widow,-0.04036339732531311
+1,A: higher external scores / lower credit-income ratio,12,NAME_HOUSING_TYPE,House / apartment,-0.009095563362874806
+1,A: higher external scores / lower credit-income ratio,13,REGION_POPULATION_RELATIVE,0.0196889999999999,0.015616226841418258
+1,A: higher external scores / lower credit-income ratio,14,DAYS_BIRTH,-16794.0,-0.01643843910585324
+1,A: higher external scores / lower credit-income ratio,15,DAYS_EMPLOYED,-2234.0,0.02141732022665794
+1,A: higher external scores / lower credit-income ratio,16,DAYS_REGISTRATION,-8798.0,-0.0472749051514466
+1,A: higher external scores / lower credit-income ratio,17,DAYS_ID_PUBLISH,-343.0,0.1603575129323403
+1,A: higher external scores / lower credit-income ratio,18,OWN_CAR_AGE,,0.01261385552059829
+1,A: higher external scores / lower credit-income ratio,19,FLAG_MOBIL,1.0,5.6263121322289015e-06
+1,A: higher external scores / lower credit-income ratio,20,FLAG_EMP_PHONE,1.0,0.005379030373136828
+1,A: higher external scores / lower credit-income ratio,21,FLAG_WORK_PHONE,0.0,-0.02642302022806102
+1,A: higher external scores / lower credit-income ratio,22,FLAG_CONT_MOBILE,1.0,-0.000719084097672271
+1,A: higher external scores / lower credit-income ratio,23,FLAG_PHONE,0.0,0.014948515388194035
+1,A: higher external scores / lower credit-income ratio,24,FLAG_EMAIL,0.0,-0.0022465640533693874
+1,A: higher external scores / lower credit-income ratio,25,OCCUPATION_TYPE,,-0.0424831064013156
+1,A: higher external scores / lower credit-income ratio,26,CNT_FAM_MEMBERS,1.0,0.007989443622115625
+1,A: higher external scores / lower credit-income ratio,27,REGION_RATING_CLIENT,2.0,-0.010212042273522147
+1,A: higher external scores / lower credit-income ratio,28,REGION_RATING_CLIENT_W_CITY,2.0,-0.009479151899993876
+1,A: higher external scores / lower credit-income ratio,29,WEEKDAY_APPR_PROCESS_START,TUESDAY,0.030767202279108275
+1,A: higher external scores / lower credit-income ratio,30,HOUR_APPR_PROCESS_START,9.0,-0.03162812816184565
+1,A: higher external scores / lower credit-income ratio,31,REG_REGION_NOT_LIVE_REGION,0.0,0.002077755214951437
+1,A: higher external scores / lower credit-income ratio,32,REG_REGION_NOT_WORK_REGION,0.0,-0.000579767804241191
+1,A: higher external scores / lower credit-income ratio,33,LIVE_REGION_NOT_WORK_REGION,0.0,-0.00025080386235076845
+1,A: higher external scores / lower credit-income ratio,34,REG_CITY_NOT_LIVE_CITY,0.0,-0.014435019181345411
+1,A: higher external scores / lower credit-income ratio,35,REG_CITY_NOT_WORK_CITY,0.0,-0.003703885640050181
+1,A: higher external scores / lower credit-income ratio,36,LIVE_CITY_NOT_WORK_CITY,0.0,-0.001735914330837763
+1,A: higher external scores / lower credit-income ratio,37,ORGANIZATION_TYPE,Business Entity Type 2,0.03036286144212651
+1,A: higher external scores / lower credit-income ratio,38,EXT_SOURCE_1,0.7102141580866451,-0.4612317631097553
+1,A: higher external scores / lower credit-income ratio,39,EXT_SOURCE_2,0.6820450833421501,-0.41074477596795966
+1,A: higher external scores / lower credit-income ratio,40,EXT_SOURCE_3,0.6940926425266661,-0.6023260117204525
+1,A: higher external scores / lower credit-income ratio,41,APARTMENTS_AVG,,0.002580861347171889
+1,A: higher external scores / lower credit-income ratio,42,BASEMENTAREA_AVG,,-0.002373524613551989
+1,A: higher external scores / lower credit-income ratio,43,YEARS_BEGINEXPLUATATION_AVG,,-0.001273603397758857
+1,A: higher external scores / lower credit-income ratio,44,YEARS_BUILD_AVG,,0.0019352177761750352
+1,A: higher external scores / lower credit-income ratio,45,COMMONAREA_AVG,,-0.00010931410481881929
+1,A: higher external scores / lower credit-income ratio,46,ELEVATORS_AVG,,0.00046575552501417486
+1,A: higher external scores / lower credit-income ratio,47,ENTRANCES_AVG,,0.006658399844418829
+1,A: higher external scores / lower credit-income ratio,48,FLOORSMAX_AVG,,0.005466307755126259
+1,A: higher external scores / lower credit-income ratio,49,FLOORSMIN_AVG,,0.00024668538875017735
+1,A: higher external scores / lower credit-income ratio,50,LANDAREA_AVG,,-0.001397696199738812
+1,A: higher external scores / lower credit-income ratio,51,LIVINGAPARTMENTS_AVG,,0.0009224322363683896
+1,A: higher external scores / lower credit-income ratio,52,LIVINGAREA_AVG,,-5.1409927452806295e-05
+1,A: higher external scores / lower credit-income ratio,53,NONLIVINGAPARTMENTS_AVG,,-0.003005111364299732
+1,A: higher external scores / lower credit-income ratio,54,NONLIVINGAREA_AVG,,0.0001712727513848033
+1,A: higher external scores / lower credit-income ratio,55,APARTMENTS_MODE,,0.002132590772650718
+1,A: higher external scores / lower credit-income ratio,56,BASEMENTAREA_MODE,,-0.0034331301416777667
+1,A: higher external scores / lower credit-income ratio,57,YEARS_BEGINEXPLUATATION_MODE,,-0.0011425222225623964
+1,A: higher external scores / lower credit-income ratio,58,YEARS_BUILD_MODE,,0.0016049176027935386
+1,A: higher external scores / lower credit-income ratio,59,COMMONAREA_MODE,,-0.0004579285956224453
+1,A: higher external scores / lower credit-income ratio,60,ELEVATORS_MODE,,-0.0011266446577404402
+1,A: higher external scores / lower credit-income ratio,61,ENTRANCES_MODE,,0.0017517009865044887
+1,A: higher external scores / lower credit-income ratio,62,FLOORSMAX_MODE,,0.00373247434611279
+1,A: higher external scores / lower credit-income ratio,63,FLOORSMIN_MODE,,0.00035288839907589927
+1,A: higher external scores / lower credit-income ratio,64,LANDAREA_MODE,,-0.0013469302591243176
+1,A: higher external scores / lower credit-income ratio,65,LIVINGAPARTMENTS_MODE,,0.0010188451859214638
+1,A: higher external scores / lower credit-income ratio,66,LIVINGAREA_MODE,,0.0007854388657073647
+1,A: higher external scores / lower credit-income ratio,67,NONLIVINGAPARTMENTS_MODE,,-0.0007509365103114032
+1,A: higher external scores / lower credit-income ratio,68,NONLIVINGAREA_MODE,,0.006174681682541007
+1,A: higher external scores / lower credit-income ratio,69,APARTMENTS_MEDI,,0.0027024924830224115
+1,A: higher external scores / lower credit-income ratio,70,BASEMENTAREA_MEDI,,-0.002719848582611938
+1,A: higher external scores / lower credit-income ratio,71,YEARS_BEGINEXPLUATATION_MEDI,,-0.00010657994306096421
+1,A: higher external scores / lower credit-income ratio,72,YEARS_BUILD_MEDI,,0.0019442776891108494
+1,A: higher external scores / lower credit-income ratio,73,COMMONAREA_MEDI,,0.0007938523171297629
+1,A: higher external scores / lower credit-income ratio,74,ELEVATORS_MEDI,,-0.0002554284581812325
+1,A: higher external scores / lower credit-income ratio,75,ENTRANCES_MEDI,,0.0012765303340440321
+1,A: higher external scores / lower credit-income ratio,76,FLOORSMAX_MEDI,,0.0029479096707439516
+1,A: higher external scores / lower credit-income ratio,77,FLOORSMIN_MEDI,,9.072073178430192e-05
+1,A: higher external scores / lower credit-income ratio,78,LANDAREA_MEDI,,-0.003240060361044089
+1,A: higher external scores / lower credit-income ratio,79,LIVINGAPARTMENTS_MEDI,,0.0011026504307010518
+1,A: higher external scores / lower credit-income ratio,80,LIVINGAREA_MEDI,,0.0019499682205878078
+1,A: higher external scores / lower credit-income ratio,81,NONLIVINGAPARTMENTS_MEDI,,-0.0005714759665841324
+1,A: higher external scores / lower credit-income ratio,82,NONLIVINGAREA_MEDI,,0.0010558125631761886
+1,A: higher external scores / lower credit-income ratio,83,FONDKAPREMONT_MODE,,-0.0007744608800833101
+1,A: higher external scores / lower credit-income ratio,84,HOUSETYPE_MODE,,-0.003579377645840344
+1,A: higher external scores / lower credit-income ratio,85,TOTALAREA_MODE,,0.003202621506564434
+1,A: higher external scores / lower credit-income ratio,86,WALLSMATERIAL_MODE,,-0.010011330609617251
+1,A: higher external scores / lower credit-income ratio,87,EMERGENCYSTATE_MODE,,0.005594232592453847
+1,A: higher external scores / lower credit-income ratio,88,OBS_30_CNT_SOCIAL_CIRCLE,0.0,-0.0010961674000107174
+1,A: higher external scores / lower credit-income ratio,89,DEF_30_CNT_SOCIAL_CIRCLE,0.0,-0.014161074606827475
+1,A: higher external scores / lower credit-income ratio,90,OBS_60_CNT_SOCIAL_CIRCLE,0.0,0.002431580176303971
+1,A: higher external scores / lower credit-income ratio,91,DEF_60_CNT_SOCIAL_CIRCLE,0.0,-0.012705608695143642
+1,A: higher external scores / lower credit-income ratio,92,DAYS_LAST_PHONE_CHANGE,-525.0,-0.010378885042282399
+1,A: higher external scores / lower credit-income ratio,93,FLAG_DOCUMENT_2,0.0,-0.00014832501953782637
+1,A: higher external scores / lower credit-income ratio,94,FLAG_DOCUMENT_3,0.0,-0.09728693222912917
+1,A: higher external scores / lower credit-income ratio,95,FLAG_DOCUMENT_4,0.0,0.0001367292139528394
+1,A: higher external scores / lower credit-income ratio,96,FLAG_DOCUMENT_5,0.0,-0.0015911907226105247
+1,A: higher external scores / lower credit-income ratio,97,FLAG_DOCUMENT_6,0.0,-0.005677743079192868
+1,A: higher external scores / lower credit-income ratio,98,FLAG_DOCUMENT_7,0.0,-2.074257909154372e-05
+1,A: higher external scores / lower credit-income ratio,99,FLAG_DOCUMENT_8,0.0,-0.001819446630369645
+1,A: higher external scores / lower credit-income ratio,100,FLAG_DOCUMENT_9,0.0,0.00038843594693396144
+1,A: higher external scores / lower credit-income ratio,101,FLAG_DOCUMENT_10,0.0,2.438664904186684e-05
+1,A: higher external scores / lower credit-income ratio,102,FLAG_DOCUMENT_11,0.0,0.0010688019106694633
+1,A: higher external scores / lower credit-income ratio,103,FLAG_DOCUMENT_12,0.0,5.530477078864213e-06
+1,A: higher external scores / lower credit-income ratio,104,FLAG_DOCUMENT_13,0.0,0.0018033485499325225
+1,A: higher external scores / lower credit-income ratio,105,FLAG_DOCUMENT_14,0.0,0.0009105847615770902
+1,A: higher external scores / lower credit-income ratio,106,FLAG_DOCUMENT_15,0.0,0.0006240567026971338
+1,A: higher external scores / lower credit-income ratio,107,FLAG_DOCUMENT_16,0.0,0.0034857285562527635
+1,A: higher external scores / lower credit-income ratio,108,FLAG_DOCUMENT_17,0.0,0.00018208472270765267
+1,A: higher external scores / lower credit-income ratio,109,FLAG_DOCUMENT_18,0.0,0.0027377486401587952
+1,A: higher external scores / lower credit-income ratio,110,FLAG_DOCUMENT_19,0.0,4.8299382888460086e-05
+1,A: higher external scores / lower credit-income ratio,111,FLAG_DOCUMENT_20,0.0,-0.00023488342708538555
+1,A: higher external scores / lower credit-income ratio,112,FLAG_DOCUMENT_21,0.0,-0.00023665688009266267
+1,A: higher external scores / lower credit-income ratio,113,AMT_REQ_CREDIT_BUREAU_HOUR,0.0,0.004325124008609117
+1,A: higher external scores / lower credit-income ratio,114,AMT_REQ_CREDIT_BUREAU_DAY,0.0,0.002241844147182104
+1,A: higher external scores / lower credit-income ratio,115,AMT_REQ_CREDIT_BUREAU_WEEK,0.0,0.0013916715920746982
+1,A: higher external scores / lower credit-income ratio,116,AMT_REQ_CREDIT_BUREAU_MON,0.0,-0.002395485255026542
+1,A: higher external scores / lower credit-income ratio,117,AMT_REQ_CREDIT_BUREAU_QRT,0.0,0.0033735295468169195
+1,A: higher external scores / lower credit-income ratio,118,AMT_REQ_CREDIT_BUREAU_YEAR,9.0,0.13431515641654215
+1,A: higher external scores / lower credit-income ratio,119,CREDIT_INCOME_RATIO,1.818181818181818,-0.02193340202966097
+1,A: higher external scores / lower credit-income ratio,120,ANNUITY_INCOME_RATIO,0.1375,-0.03533648448719327
+1,A: higher external scores / lower credit-income ratio,121,CREDIT_ANNUITY_RATIO,13.223140495867767,-0.1804785459385902
+1,A: higher external scores / lower credit-income ratio,122,EMPLOYED_AGE_RATIO,0.13302369894009766,-0.01122240089786959
+1,A: higher external scores / lower credit-income ratio,123,INCOME_PER_PERSON,90000.0,0.0040319195465100275
+2,B: EXT_SOURCE_1 missing / moderate other scores,0,NAME_CONTRACT_TYPE,Cash loans,0.028231027231891113
+2,B: EXT_SOURCE_1 missing / moderate other scores,1,FLAG_OWN_CAR,N,0.046570265283294554
+2,B: EXT_SOURCE_1 missing / moderate other scores,2,FLAG_OWN_REALTY,N,-0.01840509288400443
+2,B: EXT_SOURCE_1 missing / moderate other scores,3,CNT_CHILDREN,0.0,-0.006546827658147925
+2,B: EXT_SOURCE_1 missing / moderate other scores,4,AMT_INCOME_TOTAL,225000.0,0.02295006785439675
+2,B: EXT_SOURCE_1 missing / moderate other scores,5,AMT_CREDIT,735513.2142857143,0.012903323923648699
+2,B: EXT_SOURCE_1 missing / moderate other scores,6,AMT_ANNUITY,51628.5,0.1093418380810907
+2,B: EXT_SOURCE_1 missing / moderate other scores,7,AMT_GOODS_PRICE,913500.0,-0.2841599391883809
+2,B: EXT_SOURCE_1 missing / moderate other scores,8,NAME_TYPE_SUITE,Unaccompanied,0.006413678873271158
+2,B: EXT_SOURCE_1 missing / moderate other scores,9,NAME_INCOME_TYPE,Working,0.027939157225705915
+2,B: EXT_SOURCE_1 missing / moderate other scores,10,NAME_EDUCATION_TYPE,Secondary / secondary special,0.0590539045750257
+2,B: EXT_SOURCE_1 missing / moderate other scores,11,NAME_FAMILY_STATUS,Married,-0.03547346922993149
+2,B: EXT_SOURCE_1 missing / moderate other scores,12,NAME_HOUSING_TYPE,Rented apartment,0.1204530724289821
+2,B: EXT_SOURCE_1 missing / moderate other scores,13,REGION_POPULATION_RELATIVE,0.010006,-0.04037544954600684
+2,B: EXT_SOURCE_1 missing / moderate other scores,14,DAYS_BIRTH,-12338.0,0.11423160610460938
+2,B: EXT_SOURCE_1 missing / moderate other scores,15,DAYS_EMPLOYED,-104.0,0.12468903902160332
+2,B: EXT_SOURCE_1 missing / moderate other scores,16,DAYS_REGISTRATION,-457.0,0.06559993846711315
+2,B: EXT_SOURCE_1 missing / moderate other scores,17,DAYS_ID_PUBLISH,-1968.0,-0.00484045574838724
+2,B: EXT_SOURCE_1 missing / moderate other scores,18,OWN_CAR_AGE,,0.01261385552059829
+2,B: EXT_SOURCE_1 missing / moderate other scores,19,FLAG_MOBIL,1.0,5.6263121322289015e-06
+2,B: EXT_SOURCE_1 missing / moderate other scores,20,FLAG_EMP_PHONE,1.0,0.005379030373136828
+2,B: EXT_SOURCE_1 missing / moderate other scores,21,FLAG_WORK_PHONE,0.0,-0.02642302022806102
+2,B: EXT_SOURCE_1 missing / moderate other scores,22,FLAG_CONT_MOBILE,1.0,-0.000719084097672271
+2,B: EXT_SOURCE_1 missing / moderate other scores,23,FLAG_PHONE,0.0,0.014948515388194035
+2,B: EXT_SOURCE_1 missing / moderate other scores,24,FLAG_EMAIL,0.0,-0.0022465640533693874
+2,B: EXT_SOURCE_1 missing / moderate other scores,25,OCCUPATION_TYPE,Laborers,0.0778973288340769
+2,B: EXT_SOURCE_1 missing / moderate other scores,26,CNT_FAM_MEMBERS,2.0,-0.0037803494174012417
+2,B: EXT_SOURCE_1 missing / moderate other scores,27,REGION_RATING_CLIENT,2.0,-0.010212042273522147
+2,B: EXT_SOURCE_1 missing / moderate other scores,28,REGION_RATING_CLIENT_W_CITY,1.0,-0.11337352928429639
+2,B: EXT_SOURCE_1 missing / moderate other scores,29,WEEKDAY_APPR_PROCESS_START,SUNDAY,-0.04115064813366806
+2,B: EXT_SOURCE_1 missing / moderate other scores,30,HOUR_APPR_PROCESS_START,10.0,0.004881297509213139
+2,B: EXT_SOURCE_1 missing / moderate other scores,31,REG_REGION_NOT_LIVE_REGION,0.0,0.002077755214951437
+2,B: EXT_SOURCE_1 missing / moderate other scores,32,REG_REGION_NOT_WORK_REGION,0.0,-0.000579767804241191
+2,B: EXT_SOURCE_1 missing / moderate other scores,33,LIVE_REGION_NOT_WORK_REGION,0.0,-0.00025080386235076845
+2,B: EXT_SOURCE_1 missing / moderate other scores,34,REG_CITY_NOT_LIVE_CITY,0.0,-0.014435019181345411
+2,B: EXT_SOURCE_1 missing / moderate other scores,35,REG_CITY_NOT_WORK_CITY,0.0,-0.003703885640050181
+2,B: EXT_SOURCE_1 missing / moderate other scores,36,LIVE_CITY_NOT_WORK_CITY,0.0,-0.001735914330837763
+2,B: EXT_SOURCE_1 missing / moderate other scores,37,ORGANIZATION_TYPE,Business Entity Type 3,0.027598954949719083
+2,B: EXT_SOURCE_1 missing / moderate other scores,38,EXT_SOURCE_1,,0.06831206149448273
+2,B: EXT_SOURCE_1 missing / moderate other scores,39,EXT_SOURCE_2,0.627440473229803,-0.2745738679209746
+2,B: EXT_SOURCE_1 missing / moderate other scores,40,EXT_SOURCE_3,0.6178261467332483,-0.4358297170058042
+2,B: EXT_SOURCE_1 missing / moderate other scores,41,APARTMENTS_AVG,,0.002580861347171889
+2,B: EXT_SOURCE_1 missing / moderate other scores,42,BASEMENTAREA_AVG,,-0.002373524613551989
+2,B: EXT_SOURCE_1 missing / moderate other scores,43,YEARS_BEGINEXPLUATATION_AVG,,-0.001273603397758857
+2,B: EXT_SOURCE_1 missing / moderate other scores,44,YEARS_BUILD_AVG,,0.0019352177761750352
+2,B: EXT_SOURCE_1 missing / moderate other scores,45,COMMONAREA_AVG,,-0.00010931410481881929
+2,B: EXT_SOURCE_1 missing / moderate other scores,46,ELEVATORS_AVG,,0.00046575552501417486
+2,B: EXT_SOURCE_1 missing / moderate other scores,47,ENTRANCES_AVG,,0.006658399844418829
+2,B: EXT_SOURCE_1 missing / moderate other scores,48,FLOORSMAX_AVG,,0.005466307755126259
+2,B: EXT_SOURCE_1 missing / moderate other scores,49,FLOORSMIN_AVG,,0.00024668538875017735
+2,B: EXT_SOURCE_1 missing / moderate other scores,50,LANDAREA_AVG,,-0.001397696199738812
+2,B: EXT_SOURCE_1 missing / moderate other scores,51,LIVINGAPARTMENTS_AVG,,0.0009224322363683896
+2,B: EXT_SOURCE_1 missing / moderate other scores,52,LIVINGAREA_AVG,,-5.1409927452806295e-05
+2,B: EXT_SOURCE_1 missing / moderate other scores,53,NONLIVINGAPARTMENTS_AVG,,-0.003005111364299732
+2,B: EXT_SOURCE_1 missing / moderate other scores,54,NONLIVINGAREA_AVG,,0.0001712727513848033
+2,B: EXT_SOURCE_1 missing / moderate other scores,55,APARTMENTS_MODE,,0.002132590772650718
+2,B: EXT_SOURCE_1 missing / moderate other scores,56,BASEMENTAREA_MODE,,-0.0034331301416777667
+2,B: EXT_SOURCE_1 missing / moderate other scores,57,YEARS_BEGINEXPLUATATION_MODE,,-0.0011425222225623964
+2,B: EXT_SOURCE_1 missing / moderate other scores,58,YEARS_BUILD_MODE,,0.0016049176027935386
+2,B: EXT_SOURCE_1 missing / moderate other scores,59,COMMONAREA_MODE,,-0.0004579285956224453
+2,B: EXT_SOURCE_1 missing / moderate other scores,60,ELEVATORS_MODE,,-0.0011266446577404402
+2,B: EXT_SOURCE_1 missing / moderate other scores,61,ENTRANCES_MODE,,0.0017517009865044887
+2,B: EXT_SOURCE_1 missing / moderate other scores,62,FLOORSMAX_MODE,,0.00373247434611279
+2,B: EXT_SOURCE_1 missing / moderate other scores,63,FLOORSMIN_MODE,,0.00035288839907589927
+2,B: EXT_SOURCE_1 missing / moderate other scores,64,LANDAREA_MODE,,-0.0013469302591243176
+2,B: EXT_SOURCE_1 missing / moderate other scores,65,LIVINGAPARTMENTS_MODE,,0.0010188451859214638
+2,B: EXT_SOURCE_1 missing / moderate other scores,66,LIVINGAREA_MODE,,0.0007854388657073647
+2,B: EXT_SOURCE_1 missing / moderate other scores,67,NONLIVINGAPARTMENTS_MODE,,-0.0007509365103114032
+2,B: EXT_SOURCE_1 missing / moderate other scores,68,NONLIVINGAREA_MODE,,0.006174681682541007
+2,B: EXT_SOURCE_1 missing / moderate other scores,69,APARTMENTS_MEDI,,0.0027024924830224115
+2,B: EXT_SOURCE_1 missing / moderate other scores,70,BASEMENTAREA_MEDI,,-0.002719848582611938
+2,B: EXT_SOURCE_1 missing / moderate other scores,71,YEARS_BEGINEXPLUATATION_MEDI,,-0.00010657994306096421
+2,B: EXT_SOURCE_1 missing / moderate other scores,72,YEARS_BUILD_MEDI,,0.0019442776891108494
+2,B: EXT_SOURCE_1 missing / moderate other scores,73,COMMONAREA_MEDI,,0.0007938523171297629
+2,B: EXT_SOURCE_1 missing / moderate other scores,74,ELEVATORS_MEDI,,-0.0002554284581812325
+2,B: EXT_SOURCE_1 missing / moderate other scores,75,ENTRANCES_MEDI,,0.0012765303340440321
+2,B: EXT_SOURCE_1 missing / moderate other scores,76,FLOORSMAX_MEDI,,0.0029479096707439516
+2,B: EXT_SOURCE_1 missing / moderate other scores,77,FLOORSMIN_MEDI,,9.072073178430192e-05
+2,B: EXT_SOURCE_1 missing / moderate other scores,78,LANDAREA_MEDI,,-0.003240060361044089
+2,B: EXT_SOURCE_1 missing / moderate other scores,79,LIVINGAPARTMENTS_MEDI,,0.0011026504307010518
+2,B: EXT_SOURCE_1 missing / moderate other scores,80,LIVINGAREA_MEDI,,0.0019499682205878078
+2,B: EXT_SOURCE_1 missing / moderate other scores,81,NONLIVINGAPARTMENTS_MEDI,,-0.0005714759665841324
+2,B: EXT_SOURCE_1 missing / moderate other scores,82,NONLIVINGAREA_MEDI,,0.0010558125631761886
+2,B: EXT_SOURCE_1 missing / moderate other scores,83,FONDKAPREMONT_MODE,,-0.0007744608800833101
+2,B: EXT_SOURCE_1 missing / moderate other scores,84,HOUSETYPE_MODE,,-0.003579377645840344
+2,B: EXT_SOURCE_1 missing / moderate other scores,85,TOTALAREA_MODE,,0.003202621506564434
+2,B: EXT_SOURCE_1 missing / moderate other scores,86,WALLSMATERIAL_MODE,,-0.010011330609617251
+2,B: EXT_SOURCE_1 missing / moderate other scores,87,EMERGENCYSTATE_MODE,,0.005594232592453847
+2,B: EXT_SOURCE_1 missing / moderate other scores,88,OBS_30_CNT_SOCIAL_CIRCLE,0.0,-0.0010961674000107174
+2,B: EXT_SOURCE_1 missing / moderate other scores,89,DEF_30_CNT_SOCIAL_CIRCLE,0.0,-0.014161074606827475
+2,B: EXT_SOURCE_1 missing / moderate other scores,90,OBS_60_CNT_SOCIAL_CIRCLE,0.0,0.002431580176303971
+2,B: EXT_SOURCE_1 missing / moderate other scores,91,DEF_60_CNT_SOCIAL_CIRCLE,0.0,-0.012705608695143642
+2,B: EXT_SOURCE_1 missing / moderate other scores,92,DAYS_LAST_PHONE_CHANGE,0.0,0.041408561051187516
+2,B: EXT_SOURCE_1 missing / moderate other scores,93,FLAG_DOCUMENT_2,0.0,-0.00014832501953782637
+2,B: EXT_SOURCE_1 missing / moderate other scores,94,FLAG_DOCUMENT_3,1.0,0.033938760849622975
+2,B: EXT_SOURCE_1 missing / moderate other scores,95,FLAG_DOCUMENT_4,0.0,0.0001367292139528394
+2,B: EXT_SOURCE_1 missing / moderate other scores,96,FLAG_DOCUMENT_5,0.0,-0.0015911907226105247
+2,B: EXT_SOURCE_1 missing / moderate other scores,97,FLAG_DOCUMENT_6,0.0,-0.005677743079192868
+2,B: EXT_SOURCE_1 missing / moderate other scores,98,FLAG_DOCUMENT_7,0.0,-2.074257909154372e-05
+2,B: EXT_SOURCE_1 missing / moderate other scores,99,FLAG_DOCUMENT_8,0.0,-0.001819446630369645
+2,B: EXT_SOURCE_1 missing / moderate other scores,100,FLAG_DOCUMENT_9,0.0,0.00038843594693396144
+2,B: EXT_SOURCE_1 missing / moderate other scores,101,FLAG_DOCUMENT_10,0.0,2.438664904186684e-05
+2,B: EXT_SOURCE_1 missing / moderate other scores,102,FLAG_DOCUMENT_11,0.0,0.0010688019106694633
+2,B: EXT_SOURCE_1 missing / moderate other scores,103,FLAG_DOCUMENT_12,0.0,5.530477078864213e-06
+2,B: EXT_SOURCE_1 missing / moderate other scores,104,FLAG_DOCUMENT_13,0.0,0.0018033485499325225
+2,B: EXT_SOURCE_1 missing / moderate other scores,105,FLAG_DOCUMENT_14,0.0,0.0009105847615770902
+2,B: EXT_SOURCE_1 missing / moderate other scores,106,FLAG_DOCUMENT_15,0.0,0.0006240567026971338
+2,B: EXT_SOURCE_1 missing / moderate other scores,107,FLAG_DOCUMENT_16,0.0,0.0034857285562527635
+2,B: EXT_SOURCE_1 missing / moderate other scores,108,FLAG_DOCUMENT_17,0.0,0.00018208472270765267
+2,B: EXT_SOURCE_1 missing / moderate other scores,109,FLAG_DOCUMENT_18,0.0,0.0027377486401587952
+2,B: EXT_SOURCE_1 missing / moderate other scores,110,FLAG_DOCUMENT_19,0.0,4.8299382888460086e-05
+2,B: EXT_SOURCE_1 missing / moderate other scores,111,FLAG_DOCUMENT_20,0.0,-0.00023488342708538555
+2,B: EXT_SOURCE_1 missing / moderate other scores,112,FLAG_DOCUMENT_21,0.0,-0.00023665688009266267
+2,B: EXT_SOURCE_1 missing / moderate other scores,113,AMT_REQ_CREDIT_BUREAU_HOUR,,-0.022884613934667643
+2,B: EXT_SOURCE_1 missing / moderate other scores,114,AMT_REQ_CREDIT_BUREAU_DAY,,-0.017407933255119086
+2,B: EXT_SOURCE_1 missing / moderate other scores,115,AMT_REQ_CREDIT_BUREAU_WEEK,,-0.002345072676809655
+2,B: EXT_SOURCE_1 missing / moderate other scores,116,AMT_REQ_CREDIT_BUREAU_MON,,0.025508383966202457
+2,B: EXT_SOURCE_1 missing / moderate other scores,117,AMT_REQ_CREDIT_BUREAU_QRT,,0.10490722188511548
+2,B: EXT_SOURCE_1 missing / moderate other scores,118,AMT_REQ_CREDIT_BUREAU_YEAR,,0.058752600116187256
+2,B: EXT_SOURCE_1 missing / moderate other scores,119,CREDIT_INCOME_RATIO,3.268947619047619,0.023035743441954123
+2,B: EXT_SOURCE_1 missing / moderate other scores,120,ANNUITY_INCOME_RATIO,0.22946,0.025375888506635413
+2,B: EXT_SOURCE_1 missing / moderate other scores,121,CREDIT_ANNUITY_RATIO,14.246263484039131,-0.5101010301217865
+2,B: EXT_SOURCE_1 missing / moderate other scores,122,EMPLOYED_AGE_RATIO,0.008429242989139244,0.07494680043107554
+2,B: EXT_SOURCE_1 missing / moderate other scores,123,INCOME_PER_PERSON,112500.0,0.011472081305126836
+3,C: lower external scores / higher credit-income ratio,0,NAME_CONTRACT_TYPE,Cash loans,0.028231027231891113
+3,C: lower external scores / higher credit-income ratio,1,FLAG_OWN_CAR,N,0.046570265283294554
+3,C: lower external scores / higher credit-income ratio,2,FLAG_OWN_REALTY,Y,0.008280031853220172
+3,C: lower external scores / higher credit-income ratio,3,CNT_CHILDREN,0.0,-0.006546827658147925
+3,C: lower external scores / higher credit-income ratio,4,AMT_INCOME_TOTAL,135000.0,-0.008318708783674578
+3,C: lower external scores / higher credit-income ratio,5,AMT_CREDIT,779911.3448275866,-0.012158777030111218
+3,C: lower external scores / higher credit-income ratio,6,AMT_ANNUITY,31653.0,0.13588340811747815
+3,C: lower external scores / higher credit-income ratio,7,AMT_GOODS_PRICE,900000.0,-0.14210614013934655
+3,C: lower external scores / higher credit-income ratio,8,NAME_TYPE_SUITE,Unaccompanied,0.006413678873271158
+3,C: lower external scores / higher credit-income ratio,9,NAME_INCOME_TYPE,Working,0.027939157225705915
+3,C: lower external scores / higher credit-income ratio,10,NAME_EDUCATION_TYPE,Secondary / secondary special,0.0590539045750257
+3,C: lower external scores / higher credit-income ratio,11,NAME_FAMILY_STATUS,Married,-0.03547346922993149
+3,C: lower external scores / higher credit-income ratio,12,NAME_HOUSING_TYPE,House / apartment,-0.009095563362874806
+3,C: lower external scores / higher credit-income ratio,13,REGION_POPULATION_RELATIVE,0.019101,0.014370885690892284
+3,C: lower external scores / higher credit-income ratio,14,DAYS_BIRTH,-22692.0,-0.04861455954289466
+3,C: lower external scores / higher credit-income ratio,15,DAYS_EMPLOYED,-4282.0,-0.0691848689322801
+3,C: lower external scores / higher credit-income ratio,16,DAYS_REGISTRATION,-12336.0,0.02100223819264605
+3,C: lower external scores / higher credit-income ratio,17,DAYS_ID_PUBLISH,-4518.0,-0.12324695111044932
+3,C: lower external scores / higher credit-income ratio,18,OWN_CAR_AGE,,0.01261385552059829
+3,C: lower external scores / higher credit-income ratio,19,FLAG_MOBIL,1.0,5.6263121322289015e-06
+3,C: lower external scores / higher credit-income ratio,20,FLAG_EMP_PHONE,1.0,0.005379030373136828
+3,C: lower external scores / higher credit-income ratio,21,FLAG_WORK_PHONE,0.0,-0.02642302022806102
+3,C: lower external scores / higher credit-income ratio,22,FLAG_CONT_MOBILE,1.0,-0.000719084097672271
+3,C: lower external scores / higher credit-income ratio,23,FLAG_PHONE,0.0,0.014948515388194035
+3,C: lower external scores / higher credit-income ratio,24,FLAG_EMAIL,0.0,-0.0022465640533693874
+3,C: lower external scores / higher credit-income ratio,25,OCCUPATION_TYPE,High skill tech staff,-0.06118642893798185
+3,C: lower external scores / higher credit-income ratio,26,CNT_FAM_MEMBERS,2.0,-0.0037803494174012417
+3,C: lower external scores / higher credit-income ratio,27,REGION_RATING_CLIENT,2.0,-0.010212042273522147
+3,C: lower external scores / higher credit-income ratio,28,REGION_RATING_CLIENT_W_CITY,2.0,-0.009479151899993876
+3,C: lower external scores / higher credit-income ratio,29,WEEKDAY_APPR_PROCESS_START,FRIDAY,0.013583704077621715
+3,C: lower external scores / higher credit-income ratio,30,HOUR_APPR_PROCESS_START,9.0,-0.03162812816184565
+3,C: lower external scores / higher credit-income ratio,31,REG_REGION_NOT_LIVE_REGION,0.0,0.002077755214951437
+3,C: lower external scores / higher credit-income ratio,32,REG_REGION_NOT_WORK_REGION,0.0,-0.000579767804241191
+3,C: lower external scores / higher credit-income ratio,33,LIVE_REGION_NOT_WORK_REGION,0.0,-0.00025080386235076845
+3,C: lower external scores / higher credit-income ratio,34,REG_CITY_NOT_LIVE_CITY,0.0,-0.014435019181345411
+3,C: lower external scores / higher credit-income ratio,35,REG_CITY_NOT_WORK_CITY,1.0,0.010296192089558655
+3,C: lower external scores / higher credit-income ratio,36,LIVE_CITY_NOT_WORK_CITY,1.0,0.006939825378337714
+3,C: lower external scores / higher credit-income ratio,37,ORGANIZATION_TYPE,Industry: type 9,-0.3648650100441109
+3,C: lower external scores / higher credit-income ratio,38,EXT_SOURCE_1,0.29560205780947596,0.037348799942932775
+3,C: lower external scores / higher credit-income ratio,39,EXT_SOURCE_2,0.34015631459588996,0.21308472387493427
+3,C: lower external scores / higher credit-income ratio,40,EXT_SOURCE_3,0.3296550543128238,0.27242749204320305
+3,C: lower external scores / higher credit-income ratio,41,APARTMENTS_AVG,,0.002580861347171889
+3,C: lower external scores / higher credit-income ratio,42,BASEMENTAREA_AVG,,-0.002373524613551989
+3,C: lower external scores / higher credit-income ratio,43,YEARS_BEGINEXPLUATATION_AVG,,-0.001273603397758857
+3,C: lower external scores / higher credit-income ratio,44,YEARS_BUILD_AVG,,0.0019352177761750352
+3,C: lower external scores / higher credit-income ratio,45,COMMONAREA_AVG,,-0.00010931410481881929
+3,C: lower external scores / higher credit-income ratio,46,ELEVATORS_AVG,,0.00046575552501417486
+3,C: lower external scores / higher credit-income ratio,47,ENTRANCES_AVG,,0.006658399844418829
+3,C: lower external scores / higher credit-income ratio,48,FLOORSMAX_AVG,,0.005466307755126259
+3,C: lower external scores / higher credit-income ratio,49,FLOORSMIN_AVG,,0.00024668538875017735
+3,C: lower external scores / higher credit-income ratio,50,LANDAREA_AVG,,-0.001397696199738812
+3,C: lower external scores / higher credit-income ratio,51,LIVINGAPARTMENTS_AVG,,0.0009224322363683896
+3,C: lower external scores / higher credit-income ratio,52,LIVINGAREA_AVG,,-5.1409927452806295e-05
+3,C: lower external scores / higher credit-income ratio,53,NONLIVINGAPARTMENTS_AVG,,-0.003005111364299732
+3,C: lower external scores / higher credit-income ratio,54,NONLIVINGAREA_AVG,,0.0001712727513848033
+3,C: lower external scores / higher credit-income ratio,55,APARTMENTS_MODE,,0.002132590772650718
+3,C: lower external scores / higher credit-income ratio,56,BASEMENTAREA_MODE,,-0.0034331301416777667
+3,C: lower external scores / higher credit-income ratio,57,YEARS_BEGINEXPLUATATION_MODE,,-0.0011425222225623964
+3,C: lower external scores / higher credit-income ratio,58,YEARS_BUILD_MODE,,0.0016049176027935386
+3,C: lower external scores / higher credit-income ratio,59,COMMONAREA_MODE,,-0.0004579285956224453
+3,C: lower external scores / higher credit-income ratio,60,ELEVATORS_MODE,,-0.0011266446577404402
+3,C: lower external scores / higher credit-income ratio,61,ENTRANCES_MODE,,0.0017517009865044887
+3,C: lower external scores / higher credit-income ratio,62,FLOORSMAX_MODE,,0.00373247434611279
+3,C: lower external scores / higher credit-income ratio,63,FLOORSMIN_MODE,,0.00035288839907589927
+3,C: lower external scores / higher credit-income ratio,64,LANDAREA_MODE,,-0.0013469302591243176
+3,C: lower external scores / higher credit-income ratio,65,LIVINGAPARTMENTS_MODE,,0.0010188451859214638
+3,C: lower external scores / higher credit-income ratio,66,LIVINGAREA_MODE,,0.0007854388657073647
+3,C: lower external scores / higher credit-income ratio,67,NONLIVINGAPARTMENTS_MODE,,-0.0007509365103114032
+3,C: lower external scores / higher credit-income ratio,68,NONLIVINGAREA_MODE,,0.006174681682541007
+3,C: lower external scores / higher credit-income ratio,69,APARTMENTS_MEDI,,0.0027024924830224115
+3,C: lower external scores / higher credit-income ratio,70,BASEMENTAREA_MEDI,,-0.002719848582611938
+3,C: lower external scores / higher credit-income ratio,71,YEARS_BEGINEXPLUATATION_MEDI,,-0.00010657994306096421
+3,C: lower external scores / higher credit-income ratio,72,YEARS_BUILD_MEDI,,0.0019442776891108494
+3,C: lower external scores / higher credit-income ratio,73,COMMONAREA_MEDI,,0.0007938523171297629
+3,C: lower external scores / higher credit-income ratio,74,ELEVATORS_MEDI,,-0.0002554284581812325
+3,C: lower external scores / higher credit-income ratio,75,ENTRANCES_MEDI,,0.0012765303340440321
+3,C: lower external scores / higher credit-income ratio,76,FLOORSMAX_MEDI,,0.0029479096707439516
+3,C: lower external scores / higher credit-income ratio,77,FLOORSMIN_MEDI,,9.072073178430192e-05
+3,C: lower external scores / higher credit-income ratio,78,LANDAREA_MEDI,,-0.003240060361044089
+3,C: lower external scores / higher credit-income ratio,79,LIVINGAPARTMENTS_MEDI,,0.0011026504307010518
+3,C: lower external scores / higher credit-income ratio,80,LIVINGAREA_MEDI,,0.0019499682205878078
+3,C: lower external scores / higher credit-income ratio,81,NONLIVINGAPARTMENTS_MEDI,,-0.0005714759665841324
+3,C: lower external scores / higher credit-income ratio,82,NONLIVINGAREA_MEDI,,0.0010558125631761886
+3,C: lower external scores / higher credit-income ratio,83,FONDKAPREMONT_MODE,,-0.0007744608800833101
+3,C: lower external scores / higher credit-income ratio,84,HOUSETYPE_MODE,,-0.003579377645840344
+3,C: lower external scores / higher credit-income ratio,85,TOTALAREA_MODE,,0.003202621506564434
+3,C: lower external scores / higher credit-income ratio,86,WALLSMATERIAL_MODE,,-0.010011330609617251
+3,C: lower external scores / higher credit-income ratio,87,EMERGENCYSTATE_MODE,,0.005594232592453847
+3,C: lower external scores / higher credit-income ratio,88,OBS_30_CNT_SOCIAL_CIRCLE,0.0,-0.0010961674000107174
+3,C: lower external scores / higher credit-income ratio,89,DEF_30_CNT_SOCIAL_CIRCLE,0.0,-0.014161074606827475
+3,C: lower external scores / higher credit-income ratio,90,OBS_60_CNT_SOCIAL_CIRCLE,0.0,0.002431580176303971
+3,C: lower external scores / higher credit-income ratio,91,DEF_60_CNT_SOCIAL_CIRCLE,0.0,-0.012705608695143642
+3,C: lower external scores / higher credit-income ratio,92,DAYS_LAST_PHONE_CHANGE,-1833.0,-0.06043441406261779
+3,C: lower external scores / higher credit-income ratio,93,FLAG_DOCUMENT_2,0.0,-0.00014832501953782637
+3,C: lower external scores / higher credit-income ratio,94,FLAG_DOCUMENT_3,1.0,0.033938760849622975
+3,C: lower external scores / higher credit-income ratio,95,FLAG_DOCUMENT_4,0.0,0.0001367292139528394
+3,C: lower external scores / higher credit-income ratio,96,FLAG_DOCUMENT_5,0.0,-0.0015911907226105247
+3,C: lower external scores / higher credit-income ratio,97,FLAG_DOCUMENT_6,0.0,-0.005677743079192868
+3,C: lower external scores / higher credit-income ratio,98,FLAG_DOCUMENT_7,0.0,-2.074257909154372e-05
+3,C: lower external scores / higher credit-income ratio,99,FLAG_DOCUMENT_8,0.0,-0.001819446630369645
+3,C: lower external scores / higher credit-income ratio,100,FLAG_DOCUMENT_9,0.0,0.00038843594693396144
+3,C: lower external scores / higher credit-income ratio,101,FLAG_DOCUMENT_10,0.0,2.438664904186684e-05
+3,C: lower external scores / higher credit-income ratio,102,FLAG_DOCUMENT_11,0.0,0.0010688019106694633
+3,C: lower external scores / higher credit-income ratio,103,FLAG_DOCUMENT_12,0.0,5.530477078864213e-06
+3,C: lower external scores / higher credit-income ratio,104,FLAG_DOCUMENT_13,0.0,0.0018033485499325225
+3,C: lower external scores / higher credit-income ratio,105,FLAG_DOCUMENT_14,0.0,0.0009105847615770902
+3,C: lower external scores / higher credit-income ratio,106,FLAG_DOCUMENT_15,0.0,0.0006240567026971338
+3,C: lower external scores / higher credit-income ratio,107,FLAG_DOCUMENT_16,0.0,0.0034857285562527635
+3,C: lower external scores / higher credit-income ratio,108,FLAG_DOCUMENT_17,0.0,0.00018208472270765267
+3,C: lower external scores / higher credit-income ratio,109,FLAG_DOCUMENT_18,0.0,0.0027377486401587952
+3,C: lower external scores / higher credit-income ratio,110,FLAG_DOCUMENT_19,0.0,4.8299382888460086e-05
+3,C: lower external scores / higher credit-income ratio,111,FLAG_DOCUMENT_20,0.0,-0.00023488342708538555
+3,C: lower external scores / higher credit-income ratio,112,FLAG_DOCUMENT_21,0.0,-0.00023665688009266267
+3,C: lower external scores / higher credit-income ratio,113,AMT_REQ_CREDIT_BUREAU_HOUR,0.0,0.004325124008609117
+3,C: lower external scores / higher credit-income ratio,114,AMT_REQ_CREDIT_BUREAU_DAY,0.0,0.002241844147182104
+3,C: lower external scores / higher credit-income ratio,115,AMT_REQ_CREDIT_BUREAU_WEEK,0.0,0.0013916715920746982
+3,C: lower external scores / higher credit-income ratio,116,AMT_REQ_CREDIT_BUREAU_MON,0.0,-0.002395485255026542
+3,C: lower external scores / higher credit-income ratio,117,AMT_REQ_CREDIT_BUREAU_QRT,0.0,0.0033735295468169195
+3,C: lower external scores / higher credit-income ratio,118,AMT_REQ_CREDIT_BUREAU_YEAR,2.0,0.016333106616829574
+3,C: lower external scores / higher credit-income ratio,119,CREDIT_INCOME_RATIO,5.7771210727969375,-0.008982936696543691
+3,C: lower external scores / higher credit-income ratio,120,ANNUITY_INCOME_RATIO,0.23446666666666666,0.027048382108229727
+3,C: lower external scores / higher credit-income ratio,121,CREDIT_ANNUITY_RATIO,24.639413162341217,-0.15098260507427363
+3,C: lower external scores / higher credit-income ratio,122,EMPLOYED_AGE_RATIO,0.1887008637405253,-0.055380664398355164
+3,C: lower external scores / higher credit-income ratio,123,INCOME_PER_PERSON,67500.0,-0.017193879988671345
