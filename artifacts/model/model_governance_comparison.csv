@@ -1,0 +1,4 @@
+model,model_form,primary_explanation,intrinsic_interpretability,nonlinear_main_effects,interactions
+Logistic regression,linear log-odds,fitted coefficients,True,False,False
+Explainable Boosting Machine,additive boosted shape functions,intrinsic global and local term contributions,True,True,False
+XGBoost,boosted decision-tree ensemble,post-hoc TreeSHAP,False,True,True
